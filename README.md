@@ -1,6 +1,6 @@
 # AppCronometro
 
-Esta aplicación móvil es un cronometro sencillo que tiene sus opciones correspondientes, la aplicación es para Android con Kotlin.
+Esta aplicación móvil es un cronometro sencillo que tiene sus opciones correspondientes, la aplicación es para Android con lenguaje Kotlin.
 
 [![Captura-1.png](https://i.postimg.cc/HxY9Hk8x/Captura-1.png)](https://postimg.cc/CZ2qsYNT)
 
